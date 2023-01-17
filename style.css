@@ -75,7 +75,7 @@ section.change {
 .section-1 {
   flex-direction: column;
   background: url(images/first_section.jpg) center no-repeat;
-  background-size: auto;
+  background-size:cover;
 }
 
 .section-1 .section-1-heading {
